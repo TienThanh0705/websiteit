@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.4.11",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "react-hook-use-state": "^1.1.0",
+    "react-use-effect": "^0.0.1",
+    "sass": "^1.55.0",
+    "usestate": "^1.1.3"
+  }
+}
